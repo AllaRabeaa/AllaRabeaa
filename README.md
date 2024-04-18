@@ -14,8 +14,7 @@
 
 - [About Me](#about-me)
 - [status card](#status-card)
-- [Center](#center)
-- [Color](#color)
+
 
 ##  About Me 
 
