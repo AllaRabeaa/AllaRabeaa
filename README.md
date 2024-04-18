@@ -12,14 +12,28 @@
 
 #### Table of Contents
 
-- [About Me](#❄️-about-me-❄️)
+- [About Me](#about-me)
 - [status card](#status-card)
 - [Center](#center)
 - [Color](#color)
 
-## ❄️ About Me ❄️
+##  About Me 
 
 🌸 I'm a full stack developer 🌸
+
+<a href="allaa.emad.rabei@gmail.com">
+<img align="center" src="    https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<img align="center" src="    https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</a>
+<a>
+<img align="center" src="    https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" />
+</a>
+<a>
+<img align="center" src="    https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+</a>
+<br></br>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
 
