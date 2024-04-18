@@ -54,7 +54,7 @@
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
 </a>
-<a href="https://expressjs.com"style="background-color:DodgerBlue;" target="blank">
+<a href="https://expressjs.com"style="background-color:white;" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="40" width="40" />
 </a>
 <p>&nbsp;
